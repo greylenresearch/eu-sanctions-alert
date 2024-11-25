@@ -5,15 +5,15 @@ EU Sanction Alert (“the Extension”) is committed to protecting your privacy.
 ## 1. Information We Collect
 
 The Extension collects and processes the following information:
-	•	Browsing Content: The Extension temporarily accesses the content of the currently active tab to identify and highlight names or entities related to sanctions. This access is limited to the active tab and occurs only during user-initiated interactions.
-	•	Network Requests: The Extension fetches sanctions-related datasets from trusted external servers (e.g., https://data.opensanctions.org). These requests are necessary to ensure the Extension provides accurate and up-to-date information.
+- Browsing Content: The Extension temporarily accesses the content of the currently active tab to identify and highlight names or entities related to sanctions. This access is limited to the active tab and occurs only during user-initiated interactions.
+- Network Requests: The Extension fetches sanctions-related datasets from trusted external servers (e.g., https://data.opensanctions.org). These requests are necessary to ensure the Extension provides accurate and up-to-date information.
 
 ## 2. How We Use Your Information
 
 The information collected is used solely for the following purposes:
-	•	Analyzing and processing the content of the active tab to highlight relevant names and entities.
-	•	Fetching and updating sanctions-related datasets from external servers.
-	•	Enhancing the user experience by storing preferences and processed data locally using Chrome’s storage API.
+- Analyzing and processing the content of the active tab to highlight relevant names and entities.
+- Fetching and updating sanctions-related datasets from external servers.
+- Enhancing the user experience by storing preferences and processed data locally using Chrome’s storage API.
 
 We do not collect, store, or share any personally identifiable information.
 
@@ -35,10 +35,10 @@ The Extension accesses sanctions-related datasets hosted on https://data.opensan
 
 ## 7. Your Choices
 
-	•	You can disable or uninstall the Extension at any time through your browser’s settings.
-	•	If you have concerns about the data fetched or processed, please contact us using the information below.
+- You can disable or uninstall the Extension at any time through your browser’s settings.
+- If you have concerns about the data fetched or processed, please contact us using the information below.
 
-    8. Changes to This Privacy Policy
+## 8. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. The “Effective Date” at the top of this policy indicates the latest update.
 
