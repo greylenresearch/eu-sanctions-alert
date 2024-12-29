@@ -2,12 +2,10 @@
 
 ![](https://files.catbox.moe/kazrmr.jpg)
 
-# [Install EU Sanctions Alert from Chrome Web Store](https://chromewebstore.google.com/detail/eu-sanctions-alert/lbkcklkbphobjhlekgeafhfcjhaihkha?authuser=0&hl=en-GB)
+### [Install EU Sanctions Alert from Chrome Web Store](https://chromewebstore.google.com/detail/eu-sanctions-alert/lbkcklkbphobjhlekgeafhfcjhaihkha?authuser=0&hl=en-GB)
 
 ## **Summary**
-
 *Efficiently identify individuals and organizations subject to financial sanctions imposed by the European Union.*
-
 The EU Sanctions Alert browser extension streamlines your sanctions screening workflow with real-time detection of individuals and entities sanctioned by the European Union. Perfect for professionals in:
 + Know Your Customer (KYC) compliance
 + Anti-Money Laundering (AML) monitoring
