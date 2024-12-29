@@ -1,4 +1,4 @@
-# **EU Sanctions Alert - Email to Registered Accounts**
+# **EU Sanctions Alert**
 
 ![](https://files.catbox.moe/kazrmr.jpg)
 
