@@ -41,10 +41,3 @@ The Extension accesses sanctions-related datasets hosted on https://data.opensan
 ## 8. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. The “Effective Date” at the top of this policy indicates the latest update.
-
-## 9. Contact Us
-
-If you have any questions or concerns about this Privacy Policy or the Extension’s practices, you can reach us at:
-
-Mearra Research
-mearra.research@proton.me
